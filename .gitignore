@@ -9,6 +9,7 @@
 *.iml
 
 
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
@@ -56,3 +57,5 @@ build/
 ### VS Code ###
 .vscode/
 
+### Other
+utils/init-new-kata-from-skeleton.sh
